@@ -1,4 +1,4 @@
-package com.todo.todo_api_server.model;
+package com.todo.todo_api_server.web.vo;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.databind.PropertyNamingStrategies;
